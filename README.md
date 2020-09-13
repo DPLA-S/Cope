@@ -1,7 +1,5 @@
-# Cope-DPLA
-![DPLA](/DPLA.png)
-
-https://dpla-s.github.io/Cope-DPLA/ 🔗
+# ![DPLA](https://dpla-s.github.io/assets/DPLA.png)
+https://dpla-s.github.io/about 🔗
 ```css
 Lang["DPLA"]
 Event[onLaunch]:(
