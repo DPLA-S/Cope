@@ -1,7 +1,7 @@
 # Cope-DPLA
 ![DPLA](/DPLA.png)
 
-https://dpal-s.github.io/Cope-DPLA/ 🔗
+https://dpla-s.github.io/Cope-DPLA/ 🔗
 ```css
 Lang["DPLA"]
 Event[onLaunch]:(
